@@ -1,0 +1,9 @@
+.card img{
+    height: 200px;
+    cursor: pointer;
+    margin: 1rem 0.5rem;
+    transition: transform 0.5s;
+}
+.card img:hover{
+    transform: translateY(-10px);
+}

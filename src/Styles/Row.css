@@ -1,0 +1,14 @@
+.row{
+    overflow-x: auto;
+    padding: 1rem;
+}
+.row h2{
+    color: white;
+    font-weight: 300;
+    margin-left: 0.5rem;
+
+}
+
+.row div {
+    display: flex;
+}

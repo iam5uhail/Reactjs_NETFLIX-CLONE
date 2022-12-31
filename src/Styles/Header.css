@@ -1,0 +1,35 @@
+.header {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    background-color: rgb(30, 30, 30);
+    padding: 2rem;
+}
+.header div{
+    /* border: 2px solid red; */
+    padding: 2rem;
+    width: 100%;
+}
+.header div a{
+    margin: 0 2rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+.header svg:hover{
+    color: grey;
+}
+
+.header svg{
+    color: white;
+    height: 1.5rem;
+    width: 1.5rem;
+    cursor: pointer;
+}
+
+.header img {
+    /* border: 2px solid white; */
+    height: 3rem;
+    width: 10rem;
+}
